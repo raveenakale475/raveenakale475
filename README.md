@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Font End**
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1eIv018vU3m9dRGYq7t05cliYzPehIL8I/view?usp=sharing)
 
