@@ -22,9 +22,9 @@
 
 ## 🙋‍♀️ About Me 
 
-- 🔭 I’m currently pursuing Full Stack Web Development
+- 🔭 I have completed a Full Stack Web Development full-time Course at Masai school.
 
-- 🌱 I’m currently in Revision Module **RM-B23**
+- 🌱 I’m currently in **placements**.
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1eIv018vU3m9dRGYq7t05cliYzPehIL8I/view?usp=sharing)
 
@@ -32,7 +32,7 @@
 
 - 👩‍💻 All of my projects are available at **[My Github Repositories](https://github.com/raveenakale475?tab=repositories)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, TypeScript, Next.js, Node.js, Express.js, MongoDB, GitHub, Bootstrap, Chakra UI, Tailwind CSS, REST API, and DSA.**
 
 - 📫 How to reach me **raveenar.kale@gmail.com**
 
