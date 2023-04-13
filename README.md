@@ -54,7 +54,7 @@
 <hr />
 
 
-<h2 align="center">🚀 Languages and Tools: </h2>
+<h2 align="center">🚀 Languages and Tools </h2>
 <br/>
 <div align="center">
  
