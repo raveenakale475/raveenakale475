@@ -28,7 +28,7 @@
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1eIv018vU3m9dRGYq7t05cliYzPehIL8I/view?usp=sharing)
 
-- 👩‍💻 Know more about me [Portfolio](https://raveenakale475.github.io/)
+- 👩‍💻 Know more about me [Portfolio](https://raveenakale475.github.io)
 
 - 👩‍💻 All of my projects are available at **[My Github Repositories](https://github.com/raveenakale475?tab=repositories)**
 
