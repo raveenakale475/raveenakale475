@@ -111,12 +111,12 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/raveenakale475/github-readme-stats"><img alt="raveenakale Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveenakale475&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/raveenakale475/github-readme-stats"><img alt="raveenakale Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav02022&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
     <a href="https://github.com/raveenakale475/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="raveenakale streak" src="https://github-readme-streak-stats.herokuapp.com?user=raveenakale475&hide_border=true"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="raveenakale streak" src="https://github-readme-streak-stats.herokuapp.com/?user=raveenakale475&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
