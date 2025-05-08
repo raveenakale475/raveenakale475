@@ -22,9 +22,9 @@
 
 ## 🙋‍♀️ About Me 
 
-- 🔭 I have completed a Full Stack Web Development full-time Course at Masai school.
+- 🔭 I have completed a Full Stack Web Development full-time Course. <!-- at Masai school. -->
 
-- 🌱 I’m currently in **placements**.
+<!-- - 🌱 I’m currently in **placements**. -->
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1eIv018vU3m9dRGYq7t05cliYzPehIL8I/view?usp=sharing)
 
