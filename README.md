@@ -9,15 +9,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raveenakale475&label=Profile%20views&color=0e75b6&style=flat" alt="raveenakale" /> </p>
 
 
-<h3 align="center">A passionate Full Stack Developer is in making</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Self Raveena 👸; I am a Full-Stack%20Web%20Developer 👩‍💻; Interested in Travelling 🚁;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
-
+-->
 
 
 ## 🙋‍♀️ About Me 
