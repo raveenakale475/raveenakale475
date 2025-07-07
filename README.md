@@ -15,9 +15,9 @@
 
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Self Raveena 👸; I am a Full-Stack%20Web%20Developer 👩‍💻; Interested in Travelling 🚁;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-</p>
--->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly?lines=Hi! My Self Raveena 👸; I am a Full-Stack%20Web%20Developer 👩‍💻; Interested in Travelling 🚁;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p> -->
+
 
 
 ## 🙋‍♀️ About Me 
@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raveena-kale-b8111a173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raveena-kale-b8111a173" height="40" width="40" /></a>
-  <a href="https://raveenakale475.github.io/" target="blank"><img align="center" src="https://secure.webtoolhub.com/static/resources/icons/set9/7c8448c76446.png" alt="raveena-kale-b8111a173" height="50" width="50" /></a>
+  <a href="https://raveenakale475.github.io/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3b579ba2-f191-4d9f-a75f-f69c2ac27b88" alt="raveena-kale-b8111a173" height="50" width="50" /></a>
 </p>
 <br />
 
@@ -132,7 +132,7 @@
 <br/>
 <a href="https://github.com/raveenakale475">
           <img
-            src="https://github-readme-activity-graph.cyclic.app/graph?username=raveenakale475&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=raveenakale475&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
             alt="streak"
           />
         </a> 
